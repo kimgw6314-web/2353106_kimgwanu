@@ -1,10 +1,5 @@
 # 2D Side Scroll Action Game Class Template
 
-## 템플릿 버전 `260909`
-
-> **이 숫자는 복사해 간 시점에 멈춰 있습니다.** 내 저장소의 `README.md`를 열어 확인하세요.
-> **원본([hansung-game1/game-p](https://github.com/hansung-game1/game-p))의 숫자와 다르면** 그 뒤로 템플릿이 고쳐진 것입니다. **따라잡는 방법은 수업에서 안내합니다** - 먼저 지우거나 다시 받지 마세요.
-
 Unity 2022 LTS 기반 2D 사이드 스크롤 액션게임 수업용 템플릿 저장소입니다.
 
 ## ▶ 수업 문서는 여기 있습니다

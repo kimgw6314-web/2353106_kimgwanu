@@ -4,8 +4,8 @@ Unity 상단 File > Build Settings 에서 Build 를 누르고, 저장 위치로 
 지정하면 됩니다. 그 안에 원하는 이름의 하위 폴더를 만들어도 됩니다.
 
 빌드하면 이런 것들이 같이 생깁니다:
-  2D_Action_Game.exe        실행 파일
-  2D_Action_Game_Data\      게임 데이터 폴더
+  2D_project.exe            실행 파일
+  2D_project_Data\          게임 데이터 폴더
   UnityPlayer.dll           실행에 필요한 파일
 
   ** exe 파일 하나만 옮기면 실행되지 않습니다. 전부 같은 자리에 있어야 합니다. **
