@@ -442,8 +442,16 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: bd4e487596346b540a82b16529b6e54e, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: 60ff7083d12c0a74780e85292f4276f1, type: 3}
+  - image: {fileID: 21300000, guid: af7cf1020d189ba4ba3f94f02e18028d, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 7d36adfbdba06044e83f63b6253cae8e, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b140bc2246c345b4284a5729186556e3, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 01fd088c833856d478ac93a158d5f4df, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 6282f5f331896644a98e533f3c69033f, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 2032162175}
   nextSceneName: Title
 --- !u!4 &420365790
@@ -624,8 +632,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -134, y: -0.00012207031}
+  m_SizeDelta: {x: 309.8206, y: 177.8082}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &481956467
 MonoBehaviour:
@@ -768,8 +776,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -133.99988, y: 0.00012207031}
+  m_SizeDelta: {x: 309.8206, y: 177.8082}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &702703578
 MonoBehaviour:
@@ -1246,8 +1254,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: 131, y: -0.000061035156}
+  m_SizeDelta: {x: 309.8206, y: 177.8082}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &2046976875
 GameObject:
