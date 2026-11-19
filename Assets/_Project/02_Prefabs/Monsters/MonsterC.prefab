@@ -341,6 +341,6 @@ MonoBehaviour:
     volume: 1
     pitchVariance: 0.05
   deathSfx:
-    clip: {fileID: 8300000, guid: 0eba511020b5d1f468d6085b6e39c9ee, type: 3}
+    clip: {fileID: 8300000, guid: d596c31b9ad881e4ab88f9c7806d80b4, type: 3}
     volume: 1
     pitchVariance: 0.05
